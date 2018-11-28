@@ -1,1 +1,1 @@
-# codehelp
+# REI Bidding Boilerplate
